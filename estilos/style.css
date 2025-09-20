@@ -82,19 +82,19 @@ form > .campo {
 .campo > span {
     color: rgb(243, 243, 243);
     font-size: 1.5em;
-    width: 38px;
+    width: 36px;
 }
 
 .campo > input {
     background-color: #b2e8ff;
     font-size: 1em;
-    width: calc(100% - 42.5px);
+    width: calc(100% - 41px);
     height: 100%;
     border: none;
     border-radius: 8px;
     padding: 12px;
 
-    transform: translateY(-5px);
+    transform: translateY(-8px);
 }
 
 .campo > input:focus-within {
